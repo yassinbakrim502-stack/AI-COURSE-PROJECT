@@ -19,3 +19,14 @@ Human errors in critical moments, controversial VAR decisions, and long game sto
 
 ## 👤 Author
 **Yassin Bakrim** - Building AI Student, Elements of AI 2025
+    ![AI VAR System in FIFA](/var-ai.png) 
+        ## 📊 كيفاش كيخدم النظام
+    ![VAR 2.0 AI Workflow](/var-workflow.png)
+    ## 📸 Project Images
+![AI VAR System in FIFA](/var-ai.png)
+
+## 📊 كيفاش كيخدم النظام
+![VAR 2.0 AI Workflow](/var-workflow.png)
+
+## 👤 Author
+**Yassin Bakrim** - Building AI Student, Elements of AI 2025
